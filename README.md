@@ -1,2 +1,2 @@
-# facebook-data-analysis
-This was an assignment for a Business Intelligence course. There was a given, however incomplete data dictionary as part of the assignment. This project includes a cleaning of the data, as well as statistical alaysis.
+# Facebook Data Analysis
+This was an assignment for a Business Intelligence course. We were given an incomplete data dictionary. This project includes a cleaning of the data, as well as statistical alaysis.
